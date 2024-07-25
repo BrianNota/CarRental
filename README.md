@@ -6,7 +6,7 @@
 
 
 
-👉 Live Demo: <a href='https://github.com/BrianNota/CarRental/blob/main/Car%20rental/'>Live Demo</a>
+👉 Live Demo: <a href='https://github.com/BrianNota/CarRental/blob/main/Car%20rental/index.html'>Live Demo</a>
 
 <h3>Build with:</h3>
 
